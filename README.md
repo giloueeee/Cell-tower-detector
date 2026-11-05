@@ -11,3 +11,5 @@ Le projet s'avera trop compliqué à mettre en place pour les raisons suivantes 
 
 
 En conclusion, je pense que ce système est réalisable mais nécessite de très nombreuses images (labelisées) et un drone muni d'un zoom performant. 
+
+Ce répertoire contient de quoi génerer le modèle de détection des pylones (sans classification).
