@@ -1,4 +1,4 @@
-**Modèle de détection de pylone électrique sur imagerie de drone.**
+# Modèle de détection de pylone électrique sur imagerie de drone.
 
 L'ambition initiale était de créer un modèle capable d'identifier les pylones menacés par la végétation environnante. 
 
